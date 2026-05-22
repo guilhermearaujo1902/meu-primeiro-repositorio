@@ -1,1 +1,5 @@
-Este é um arquivo de testes.
+Este é um arquivo de testes. Alteração na linha 1
+
+Nova linha
+
+Nova linha criada
